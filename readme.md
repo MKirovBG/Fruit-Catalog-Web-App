@@ -13,7 +13,6 @@ Welcome to the Fruit Catalogue Web App! This is a front-end web application for 
 - [Features](#features)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -53,6 +52,4 @@ This project was built using the following technologies:
 
 Contributions are always welcome! If you'd like to contribute to this project, please fork the repository and create a new branch with your changes. Once you've made your changes, submit a pull request and we'll review your changes.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
