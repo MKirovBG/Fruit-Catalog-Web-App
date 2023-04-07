@@ -1,9 +1,9 @@
 # Fruit Catalog Web App
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/fruit-catalog-web-app?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/fruit-catalog-web-app?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/fruit-catalog-web-app?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/fruit-catalog-web-app?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/MKirovBG/fruit-catalog-web-app?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/MKirovBG/fruit-catalog-web-app?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/MKirovBG/fruit-catalog-web-app?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/MKirovBG/fruit-catalog-web-app?style=flat-square)
 
 Welcome to the Fruit Catalog Web App! This is a front-end web application for creating and managing fruit records. The application allows visitors to browse through the fruit catalog. Users may register with an email and a password which allows them to create their own fruit records info. Fruit authors can also edit or delete their own publications at any time.
 
